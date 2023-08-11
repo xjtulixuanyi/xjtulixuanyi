@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Xi'an Jiaotong University
+- 🔭 I’m currently studying in Xi'an Jiaotong University
 - 🌱 I’m currently learning Automatic Engineering
 - 📫 How to reach me: xjtulixuanyi@qq.com
 ### Languages and Frameworks
